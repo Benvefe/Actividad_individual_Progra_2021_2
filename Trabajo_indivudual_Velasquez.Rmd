@@ -4,7 +4,7 @@ author: "Velasquez_Fernandez_Benjy"
 date: "31/1/2022"
 output: html_document
 ---
-# EJERCICIOS DE LA LIBRERIA CLIMATOL
+# **EJERCICIOS DE LA LIBRERIA CLIMATOL**
 
 ## NIVEL I
 
